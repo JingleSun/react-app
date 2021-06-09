@@ -6,6 +6,10 @@ const App: FC = () => (
   <div className="App">
     <Button type="primary">Sign up</Button>
   </div>
+
+
+
+
 )
 
 export default App;
